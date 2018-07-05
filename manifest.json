@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "Dom-Mapper",
-	"description": "Add a one-line script to visually map DOM elements on a view",
-	"version": "1.1",
+	"description": "Run a one-line script to visually map DOM elements on a view",
+	"version": "1.4",
 	"author": "mlande",
 	"browser_action": {
 		"default_icon": "chrome_store/icons/icon.png",
